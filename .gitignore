@@ -5,3 +5,5 @@
 .temp
 coverage
 node_modules
+/vendor
+/.idea
